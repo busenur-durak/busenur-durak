@@ -1,6 +1,6 @@
 # Busenur Durak
 
-Management Information Systems, İzmir Bakırçay University. I build the piece between a dataset and a person who has to decide: a model, a small API, and a screen.
+Bachelor's graduate in Management Information Systems, İzmir Bakırçay University. I build the piece between a dataset and a person who has to decide: a model, a small API, and a screen.
 
 [LinkedIn](https://www.linkedin.com/in/busenur-durak) · [busenur-durak](https://github.com/busenur-durak)
 
@@ -33,4 +33,4 @@ The study measures Race–Sex and Age–Sex bias on two public datasets and comp
 
 ## Türkçe
 
-İzmir Bakırçay Üniversitesi Yönetim Bilişim Sistemleri. Veriyi, modelin kendisini ve o modeli kullanacak ekranı birlikte kuruyorum. Öne çıkan işler: hastane yeniden yatış tahmini, algoritmik adalet tezi, AstroGuidance, mülakat simülasyonu, hava kalitesi tahmini ve yayındaki e-ticaret sitesi.
+İzmir Bakırçay Üniversitesi Yönetim Bilişim Sistemleri lisans mezunuyum. Veriyi, modelin kendisini ve o modeli kullanacak ekranı birlikte kuruyorum. Öne çıkan işler: hastane yeniden yatış tahmini, algoritmik adalet tezi, AstroGuidance, mülakat simülasyonu, hava kalitesi tahmini ve yayındaki e-ticaret sitesi.
